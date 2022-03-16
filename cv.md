@@ -3,9 +3,9 @@
 ___
 
 ## Contact details
-**Location:** Minsk, Belarus  
-**Phone:** +375 29 9188090
-**E-mail:** ephedrini1@gmail.com
+**Location:** Minsk, Belarus \
+**Phone:** +375 29 9188090 \
+**E-mail:** ephedrini1@gmail.com \
 **GitHub:** [ephedrini1](https://github.com/ephedrini1)
 
 
@@ -24,16 +24,16 @@ ___
  
 
 ### Skills and knowledge:
-> HTML5, CSS
-> JavaScript Basics
-> Git, GitHub
-> VS Code
+> HTML5, CSS \
+> JavaScript Basics \
+> Git, GitHub \
+> VS Code 
 
 
 ### Courses:
 * ITman Java development
 * JavaScript tutorials at learnjavascript.ru (in progress)
-* RS Schools course "JavaScript / Front-end. Stage 0"
+* RS Schools course "JavaScript / Front-end. Stage 0" (in progress)
 
 
 ### Languages:
