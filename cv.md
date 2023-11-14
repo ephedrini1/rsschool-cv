@@ -18,6 +18,11 @@ I do love programming and coffee (in any order but better at the same time).
 
 ### My strengths:
 
+- Quick learner
+- Always dig the root of the problems
+- Hard worker
+- Keep studying...
+
 ### Skills and knowledge:
 
 ### Courses:
