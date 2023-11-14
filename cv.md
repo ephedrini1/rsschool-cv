@@ -25,6 +25,19 @@ I do love programming and coffee (in any order but better at the same time).
 
 ### Skills and knowledge:
 
+> HTML5, CSS \
+> JavaScript \
+> Git, GitHub \
+> VS Code \
+> Webpack
+
 ### Courses:
 
+- ITman Java development (stage 0)
+- JavaScript tutorials at learnjavascript.ru
+- RS Schools course "JavaScript / Front-end" (stage 1)
+
 ### Languages:
+
+- **English** - A2 (keep learning)
+- **Russian** - Native speaker
